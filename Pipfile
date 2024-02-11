@@ -7,6 +7,9 @@ name = "pypi"
 proselint = "*"
 mdformat = "*"
 linkcheckmd = "*"
+unmarkd = "*"
+requests = "*"
+markpickle = "*"
 
 [dev-packages]
 
