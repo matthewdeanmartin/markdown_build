@@ -10,6 +10,9 @@ linkcheckmd = "*"
 unmarkd = "*"
 requests = "*"
 markpickle = "*"
+antimarkdown = "*"
+html5lib-to-markdown = "*"
+
 
 [dev-packages]
 
